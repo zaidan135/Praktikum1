@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LatihanPraktikum1</string>
+    <string name="des_banner">benner</string>
+    <string name="des_tumbnail">tumbnail</string>
+    <string name="des_down">down</string>
+    <string name="s_title">Peaky Blinders</string>
+    <string name="s_rent">Rent</string>
+    <string name="s_buy">Buy</string>
+    <string name="s_rate">4,9</string>
+    <string name="s_genre">Crime</string>
+    <string name="s_rating">99%</string>
+    <string name="s_same">Similar</string>
+    <string name="s_synopsis">Peaky Blinders is a gripping British crime drama television series set in post-World War I Birmingham, England. The show follows the rise of the Shelby family, a powerful and ambitious gang led by the cunning and charismatic Thomas Shelby. Returning from the horrors of the war, Thomas is determined to expand his family’s influence and transform their small-time betting business into a national criminal empire. With sharp suits, razor blades sewn into their caps, and a fearless attitude, the Peaky Blinders navigate the treacherous world of illegal gambling, black-market trading, and political maneuvering. As Thomas ascends through the ranks of society, he faces threats from rival gangs, law enforcement, communist revolutionaries, and powerful figures in the British establishment. The series blends historical events and fictional drama, incorporating real-life characters like Winston Churchill, and explores themes of power, loyalty, trauma, and ambition. Throughout its six-season run, Peaky Blinders showcases the psychological complexity of its characters, particularly Tommy, whose brilliance is often overshadowed by his inner demons and relentless pursuit of control. With its atmospheric cinematography, intense performances, and a modern soundtrack that contrasts beautifully with the 1920s setting, the show has earned critical acclaim and a devoted global following.</string>
+</resources>
